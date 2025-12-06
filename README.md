@@ -38,29 +38,30 @@ Actualmente curso la **Licenciatura en Informática** y desarrollo proyectos apl
 1. **Recaudación de impuestos PBA (1999–2025)** — Python · Fuente oficial PBA  
    👉 https://github.com/costa-matias/proyecto_recaudacion_pba
 
-2. **Inflación Argentina (2007–2025)** — Python · Power BI · Datos BCRA  
-   👉 https://github.com/costa-matias/proyecto_inflacion_2025
-
-3. **Recaudación de impuestos CABA (1997–2025)** — Python · Fuente oficial CABA  
-   👉 https://github.com/costa-matias/proyecto_recaudacion_caba
-
-4. **Ventas internacionales** — Excel  · Dashboard  
-   👉 https://github.com/costa-matias/proyecto_ventas_internacionales
-
-5. **Ventas — Tiendas** — Excel + Power BI · Dataset Kaggle  
-   👉 https://github.com/costa-matias/proyecto_analisis_ventas_tiendas
-
-6. **Variables económicas (USD, base monetaria, reservas)** — Excel + Power BI  
+2. **Variables económicas (USD, base monetaria, reservas)** — Excel + Power BI  
    👉 https://github.com/costa-matias/proyecto_variables_economicas
 
-7. **E-commerce — Cohortes, KPIs y RFM** — Python · Excel · Power BI  
+3. **E-commerce — Cohortes, KPIs y RFM** — Python · Excel · Power BI  
    👉 https://github.com/costa-matias/proyecto_ventas_ecommerce
 
-8. **Análisis financiero — Empresa X** · Excel · Power BI    
+4. **Análisis financiero — Empresa X** · Excel · Power BI  
    👉 https://github.com/costa-matias/proyecto_analisis_financiero
 
-9. **Análisis de la acción VIST (2020–2025)** — Python · Series históricas · Volumen · Correlación · Power BI
+5. **Análisis de la acción VIST (2020–2025)** — Python · Series históricas · Volumen · Correlación · Power BI  
    👉 https://github.com/costa-matias/proyecto_analisis_accion_vista_energy
+
+6. **Inflación Argentina (2007–2025)** — Python · Power BI · Datos BCRA  
+   👉 https://github.com/costa-matias/proyecto_inflacion_2025
+
+7. **Recaudación de impuestos CABA (1997–2025)** — Python · Fuente oficial CABA  
+   👉 https://github.com/costa-matias/proyecto_recaudacion_caba
+
+8. **Ventas internacionales** — Excel  · Dashboard  
+   👉 https://github.com/costa-matias/proyecto_ventas_internacionales
+
+9. **Ventas — Tiendas** — Excel + Power BI · Dataset Kaggle  
+   👉 https://github.com/costa-matias/proyecto_analisis_ventas_tiendas
+
 
 ---
 
