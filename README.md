@@ -56,7 +56,7 @@ Actualmente curso la **Licenciatura en Informática** y desarrollo proyectos apl
 7. **E-commerce — Cohortes, KPIs y RFM** — Python · Excel · Power BI  
    👉 https://github.com/costa-matias/proyecto_ventas_ecommerce
 
-8. **Análisis financiero — Empresa X** · Excel · Power BI
+8. **Análisis financiero — Empresa X** · Excel · Power BI    
    👉 https://github.com/costa-matias/proyecto_analisis_financiero
 
 9. **Análisis de la acción VIST (2020–2025)** — Python · Series históricas · Volumen · Correlación · Power BI
