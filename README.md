@@ -79,7 +79,7 @@ Actualmente curso la **Licenciatura en Informática** y desarrollo proyectos apl
 
 **LinkedIn:** [linkedin.com/in/matias-costa-38822b3a0](https://www.linkedin.com/in/matias-costa-38822b3a0/)  
 **Email:** [matias.costa.dt@gmail.com](mailto:matias.costa.dt@gmail.com)  
-
+**Portfolio (Notion):** [Matías Costa – Portfolio](https://www.notion.so/Mat-as-Costa-Portfolio-2c6888fb2b0580598e57d0857bf5131c?source=copy_link)
 
 ---
 
