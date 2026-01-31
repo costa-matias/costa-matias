@@ -1,7 +1,10 @@
 # 👋 Matías — Analista de Datos
 
-Soy **Analista de Datos** con experiencia en Python, SQL, Excel y Power BI. Trabajo con datos económicos, financieros, públicos y comerciales para generar análisis claros, métricas relevantes y visualizaciones orientadas a la toma de decisiones.  
-Actualmente curso la **Licenciatura en Informática** y desarrollo proyectos aplicados a economía, finanzas y negocios.
+Soy Analista de Datos con formación en la **Licenciatura en Informática**. Mi trabajo se especializa en el procesamiento, modelado y visualización de datos aplicados a entornos económicos, financieros y comerciales.
+
+Utilizo herramientas como **Python, SQL, Excel y Power BI** para organizar y analizar información compleja, asegurando que los datos sean confiables y útiles. Mi formación me permite estructurar de manera eficiente grandes cantidades de información, facilitando el análisis de datos públicos, el estudio de estados financieros y el seguimiento de indicadores económicos con un enfoque práctico y ordenado.
+
+Mi objetivo es convertir esos datos en herramientas de gestión visuales y fáciles de interpretar. A través de tableros de control y reportes detallados, ayudo a identificar tendencias de negocio y riesgos financieros, proporcionando claridad para que las decisiones se tomen basadas en información real y objetiva.
 
 ---
 
