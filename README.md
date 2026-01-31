@@ -14,9 +14,9 @@ Mi objetivo es convertir esos datos en herramientas de gestión visuales y fáci
 * **Lenguajes y Librerías**
     * **Python:** Pandas, NumPy, Matplotlib, Seaborn.
 * **Bases de Datos (SQL)**
-    * Escritura de **consultas analíticas**: uso de agregaciones, filtros, Joins, Subqueries y **CTEs** para la estructuración y limpieza de datos.
+    * Escritura de **consultas analíticas**: uso de agregaciones, filtros, Joins, Subqueries y **CTEs**.
 * **Análisis y Visualización**
-    * **Excel:** Funciones avanzadas, tablas dinámicas, **Power Query (ETL)** y diseño de dashboards.
+    * **Excel:** Funciones, tablas dinámicas, **Power Query (ETL)** y diseño de dashboards.
     * **Power BI:** Modelado de datos, creación de medidas básicas y reportes interactivos.
 
 **Metodología**  
