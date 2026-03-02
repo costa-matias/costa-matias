@@ -41,6 +41,8 @@ Mi objetivo es convertir esos datos en herramientas de gestión visuales y fáci
 - README descriptivo
 
 ### Proyectos desarrollados
+1. **Analisis de estados financieros Mercado Libre (2022–2025)** — Power BI · Fuente oficial SEC  
+   👉 https://github.com/costa-matias/analisis-de-estados-financieros-mercado-libre-2025.git
 
 1. **Recaudación de impuestos PBA (1999–2025)** — Python · Fuente oficial PBA  
    👉 https://github.com/costa-matias/proyecto_recaudacion_pba
