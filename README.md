@@ -41,6 +41,9 @@ Mi objetivo es convertir esos datos en herramientas de gestión visuales y fáci
 - README descriptivo
 
 ### Proyectos desarrollados
+1. **Análisis de la Morosidad en el Crédito a Familias Argentinas (2023–2026)** — Excel · Python ·Power BI · Fuente BCRA  
+   👉 https://github.com/costa-matias/analisis-de-estados-financieros-mercado-libre-2025.git
+
 1. **Analisis de estados financieros Mercado Libre (2022–2025)** — Power BI · Fuente oficial SEC  
    👉 https://github.com/costa-matias/analisis-de-estados-financieros-mercado-libre-2025.git
 
