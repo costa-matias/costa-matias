@@ -46,8 +46,7 @@ Mi objetivo es convertir esos datos en herramientas de gestión visuales y fáci
 
 
 1. **Análisis del Mercado Laboral Argentino - EPH INDEC 2019–2025** — Excel · Python ·Power BI · Fuente INDEC
-   
-  👉 https://github.com/costa-matias/Analisis-EPH-INDEC-Argentina.git
+   👉 https://github.com/costa-matias/Analisis-EPH-INDEC-Argentina.git
    
 1. **Analisis de estados financieros Mercado Libre (2022–2025)** — Power BI · Fuente oficial SEC  
    👉 https://github.com/costa-matias/analisis-de-estados-financieros-mercado-libre-2025.git
