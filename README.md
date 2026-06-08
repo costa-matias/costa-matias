@@ -44,8 +44,7 @@ Mi objetivo es convertir esos datos en herramientas de gestión visuales y fáci
 1. **Análisis de la Morosidad en el Crédito a Familias Argentinas (2023–2026)** — Excel · Python ·Power BI · Fuente BCRA  
    👉 https://github.com/costa-matias/Analisis-de-Morosidad-en-Familias-BCRA-2023-2026.git
 
-
-1. **Análisis del Mercado Laboral Argentino - EPH INDEC 2019–2025** — Python ·Power BI · Fuente INDEC
+1. **Análisis del Mercado Laboral Argentino - EPH INDEC 2019–2025)** — Excel · Python ·Power BI · Fuente INDEC
    👉 https://github.com/costa-matias/Analisis-EPH-INDEC-Argentina.git
    
 1. **Analisis de estados financieros Mercado Libre (2022–2025)** — Power BI · Fuente oficial SEC  
