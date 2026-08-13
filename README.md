@@ -20,7 +20,11 @@ Mi objetivo es convertir esos datos en herramientas de gestión visuales y fáci
 * **Análisis y Visualización**
     * **Excel:** Funciones, tablas dinámicas, **Power Query (ETL)** y diseño de dashboards.
     * **Power BI:** Modelado de datos, creación de medidas básicas y reportes interactivos.
-
+      
+* **Automatización e IA**
+  * **APIs REST:** conexión e ingesta de datos desde servicios web
+  * **IA Generativa:** integración con LLMs para análisis y generación automática de reportes e insights
+    
 **Metodología**  
 - Extracción → Limpieza → Análisis → Visualización → Reporte  
 - Exploración de datos y generación de KPIs  
