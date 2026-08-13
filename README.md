@@ -1,10 +1,12 @@
 # 👋 Matías — Analista de Datos
 
-Soy Analista de Datos con formación en la **Licenciatura en Informática**. Mi trabajo se especializa en el procesamiento, modelado y visualización de datos aplicados a entornos económicos, financieros y comerciales.
+Analista de Datos enfocado en generar valor a partir de los datos, identificando patrones, tendencias y oportunidades que apoyen la toma de decisiones en contextos de negocio.
 
-Utilizo herramientas como **Python, SQL, Excel y Power BI** para organizar y analizar información compleja, asegurando que los datos sean confiables y útiles. Mi formación me permite estructurar de manera eficiente grandes cantidades de información, facilitando el análisis de datos públicos, el estudio de estados financieros y el seguimiento de indicadores económicos con un enfoque práctico y ordenado.
+Desarrollo proyectos end-to-end, incluyendo procesos ETL, análisis exploratorio, visualización de datos y generación de dashboards con KPIs, con experiencia en series temporales y segmentación de clientes.
 
-Mi objetivo es convertir esos datos en herramientas de gestión visuales y fáciles de interpretar. A través de tableros de control y reportes detallados, ayudo a identificar tendencias de negocio y riesgos financieros, proporcionando claridad para que las decisiones se tomen basadas en información real y objetiva.
+Desarrollo automatizaciones integrando APIs REST e IA Generativa con Python para procesamiento de datos, análisis y generación automática de reportes e insights.
+
+He trabajado con datos de mercado laboral, inflación y comportamiento de clientes, generando insights aplicables a decisiones de planificación, estrategia y optimización de recursos.
 
 ---
 
@@ -22,12 +24,13 @@ Mi objetivo es convertir esos datos en herramientas de gestión visuales y fáci
     * **Power BI:** Modelado de datos, creación de medidas básicas y reportes interactivos.
       
 * **Automatización e IA**
-  * **APIs REST:** conexión e ingesta de datos desde servicios web
-  * **IA Generativa:** integración con LLMs para análisis y generación automática de reportes e insights
+  * **APIs REST:** conexión e ingesta de datos desde servicios web.
+  * **IA Generativa:** integración con LLMs para análisis y generación automática de reportes e insights.
     
 **Metodología**  
 - Extracción → Limpieza → Análisis → Visualización → Reporte  
-- Exploración de datos y generación de KPIs  
+- Exploración de datos y generación de KPIs
+- Automatización de procesos con Python e IA Generativa
 - Series de tiempo  
 - Análisis financiero (vertical, horizontal, ratios, interpretación de estados contables)  
 - Documentación clara y reportes finales
