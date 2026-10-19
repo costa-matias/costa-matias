@@ -48,7 +48,7 @@ He trabajado con datos de mercado laboral, inflación y comportamiento de client
 - README descriptivo
 
 ### Proyectos desarrollados
-1. **Pipeline de Automatización de Reportes de Ventas e IA** — Python · Google Gemini API
+1. **Pipeline de Automatización de Reportes de Ventas e IA** — Python · Google Gemini API   
    👉 https://github.com/costa-matias/Analisis-Ventas-Automatizacion-IA
 
 1. **Análisis de la Morosidad en el Crédito a Familias Argentinas (2023–2026)** — Excel · Python ·Power BI · Fuente BCRA  
